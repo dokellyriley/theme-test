@@ -10,6 +10,6 @@ a new paragraph
 second sentence of the paragraph.
 third sentence
 
-[about page:] (about.html)
+[about page:](about.html)
 
-[google] (https://google.com/)
+[google](https://google.com/)
